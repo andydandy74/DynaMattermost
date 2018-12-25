@@ -1,4 +1,4 @@
-Some simple rules for posting issues and pull requests for Journalysis
+Some simple rules for posting issues and pull requests for DynaMattermost
 
 ### Issues
 - **When posting bugs: Describe what you were doing, what went wrong and what you were expecting to happen.** Include screenshots and graphs where applicable.
