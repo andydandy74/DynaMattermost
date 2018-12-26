@@ -2,4 +2,6 @@
 
 ![DynaMattermost logo](https://raw.githubusercontent.com/andydandy74/DynaMattermost/master/icon/raw/DynaMattermostLogo.png)
 
-**DynaMattermost** is a tiny [Dynamo](http://www.dynamobim.com) package for the [Mattermost](https://mattermost.com/) chat service (Slack alternative) based on the [DynaWeb](https://github.com/radumg/DynaWeb) package.
+**DynaMattermost** is a tiny [Dynamo](http://www.dynamobim.com) package for the [Mattermost](https://mattermost.com/) chat service (Slack alternative).
+
+The package uses the excellent [DynaWeb](https://github.com/radumg/DynaWeb) package to interact with [Mattermost's 4.0.0 API](https://api.mattermost.com/). Current functionality is limited to sending direct messages to users but could be easily extended to other interactions with the Mattermost API.
