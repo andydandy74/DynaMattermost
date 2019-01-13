@@ -1,4 +1,4 @@
-<Workspace Version="1.3.3.4651" X="129.170530490761" Y="526.295602691131" zoom="0.679007436100057" ScaleFactor="1" Name="DirectMessage.ByChannelID" Description="Sends a direct message to a given channel" ID="767163bc-92b9-47fb-b80d-e6da0f39ca45" Category="DynaMattermost.Create">
+<Workspace Version="1.3.3.4651" X="129.170530490761" Y="526.295602691131" zoom="0.679007436100057" ScaleFactor="1" Name="Message.ByChannelID" Description="Sends a direct message to a given channel" ID="767163bc-92b9-47fb-b80d-e6da0f39ca45" Category="DynaMattermost.Create">
   <NamespaceResolutionMap />
   <Elements>
     <Dynamo.Graph.Nodes.ZeroTouch.DSFunction guid="de5d18df-7688-4e99-bd2d-6ebc20a859bc" type="Dynamo.Graph.Nodes.ZeroTouch.DSFunction" nickname="WebRequest.ByEndpoint" x="1204.38846374035" y="137.921252085157" isVisible="true" isUpstreamVisible="true" lacing="Shortest" isSelectedInput="False" IsFrozen="false" isPinned="false" assembly="..\..\packages\packages_1.3_EXTRA\DynaWeb\bin\DynaWeb.dll" function="DynaWeb.WebRequest.ByEndpoint@string">
