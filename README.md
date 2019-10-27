@@ -4,6 +4,6 @@
 
 **DynaMattermost** is a tiny [Dynamo](http://www.dynamobim.com) package for the [Mattermost](https://mattermost.com/) chat service (Slack alternative).
 
-The package uses the excellent [DynaWeb](https://github.com/radumg/DynaWeb) package to interact with [Mattermost's 4.0.0 API](https://api.mattermost.com/). Current functionality is limited to sending direct messages to users but could be easily be extended.
+The package uses the excellent [DynaWeb](https://github.com/radumg/DynaWeb) package to interact with [Mattermost's 4.0.0 API](https://api.mattermost.com/). Current functionality is limited to sending direct messages to users but could easily be extended.
 
 [![Bad Monkeys logo](https://www.badmonkeys.net/wp-content/uploads/2016/12/BadMonkey_finalLogo-01.png)](http://www.badmonkeys.net/)
